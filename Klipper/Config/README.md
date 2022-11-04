@@ -134,3 +134,12 @@ Alterantiv kann man auch hier eine schnellere Variante nehmen, die nicht ganz so
 ```
 https://realdeuce.github.io/Voron/PA/pressure_advance.html
 ```
+#### Extruder Wert
+```
+pressure_advance: 0.0715 ; <-- hier den Wert hinterlegen
+```
+#### PrusaSlicer/SuperSlicer Wert für Filamen
+der Code könnte auch auch in Cura im Start-Code hinterlegt werden, macht aber nur sinn wenn es immer das gleiche Filament ist was man verdruckt.
+```
+SET_PRESSURE_ADCANCE ADVANCE=0.0715 # <-- hier den Wert hinterlgen
+```
