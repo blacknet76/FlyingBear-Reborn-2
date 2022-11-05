@@ -10,7 +10,7 @@ cd ~/crowsnest
 ```
 make uninstall
 ```
-### <u>**Crownest intallieren**</u>
+### <u>**Crownest installieren**</u>
 ```
 cd ~
 git clone --branch ref/installer https://github.com/mainsail-crew/crowsnest.git
@@ -24,7 +24,7 @@ make config
 
 ### <u>**Moonraker.conf anpassen**</u>
 - Moonraker.conf Web Interface öffnen
-- Eintrag am ende hinzufügen
+- Eintrag am Ende hinzufügen
 ```
 [update_manager crowsnest]
 type: git_repo
@@ -33,8 +33,8 @@ origin: https://github.com/mainsail-crew/crowsnest.git
 install_script: tools/install.sh
 ```
 
-### <u>**Camera konfigureren**</u>
-- Im config Ordner die datei crowsnest.conf anlegen
+### <u>**Camera konfigurieren**</u>
+- Im config Ordner die Datei crowsnest.conf anlegen
 ```
 #### crowsnest.conf
 #### This is mainsail / MainsailOS default config.
