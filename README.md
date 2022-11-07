@@ -6,6 +6,15 @@ Die Installation und Konfiguration findet ihr auf meinem Youtube-Kanal
 
 ### Link: https://www.youtube.com/channel/UCdu7f90jyes9eE86PLhS_YQ
 
+## Klipper Insatllation
+https://github.com/blacknet76/FlyingBear-Reborn-2/tree/main/Klipper
+
+## Mainsail Themes
+https://github.com/blacknet76/FlyingBear-Reborn-2/tree/main/Mainsail%20Themes
+
+## PrusaSlicer Config
+https://github.com/blacknet76/FlyingBear-Reborn-2/tree/main/Slicer/PrucaSlicer
+
 ## RaspberryPi Imager
 https://www.raspberrypi.com/software/
 
