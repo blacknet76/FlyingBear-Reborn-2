@@ -21,15 +21,18 @@ https://www.raspberrypi.com/software/
 ## Klipper Config Checkliste
 https://www.klipper3d.org/Config_checks.html
 
-## Klipper Bed Leveling
+## Klipper Einrichten & Kalibrieren
+### Klipper Bed Leveling
 https://www.klipper3d.org/Bed_Level.html
-
-## Klipper Manuel Leveln
+### Klipper Manuel Leveln
 https://www.klipper3d.org/Manual_Level.html
-## Pressure Advance Klipper Weg
+### Rotation distance
+https://www.klipper3d.org/Rotation_Distance.html
+### Pressure Advance Klipper Weg
 https://www.klipper3d.org/Pressure_Advance.html
-## Pressure Advance alternativer Weg
+### Pressure Advance alternativer Weg
 https://realdeuce.github.io/Voron/PA/pressure_advance.html
-
+### Resonance Compensation
+https://www.klipper3d.org/Resonance_Compensation.html
 ## Klipper Config Referenz
 https://www.klipper3d.org/Config_Reference.html
