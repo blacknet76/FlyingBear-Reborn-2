@@ -29,7 +29,9 @@ make config
 [update_manager crowsnest]
 type: git_repo
 path: ~/crowsnest
+primary_branch: ref/installer #master
 origin: https://github.com/mainsail-crew/crowsnest.git
+managed_services: crowsnest
 install_script: tools/install.sh
 ```
 
