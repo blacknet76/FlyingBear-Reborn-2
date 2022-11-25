@@ -21,8 +21,25 @@ This is a dark-mode mainsail theme for FlyingBear Reborn 2
 #nav-header .v-toolbar__title {
     font-size: 24px;
     vertical-align: middle;
-    color: c_color;
+    color: #00eafb;
     font-family: monospace;
+}
+
+.v-toolbar__title {
+    color: var(--c_color) !important;
+}
+
+.v-alert--text {
+    background: #000000b0!important;
+    backdrop-filter: blur(6px);
+}
+
+.theme--dark.v-card {
+    background-color: #1e1e1ef0!important;
+}
+
+.theme--dark.v-data-table {
+    background-color: #1e1e1e00!important;
 }
 
 .v-application .warning {
